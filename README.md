@@ -25,13 +25,13 @@ textblob - Sentiment analysis
 matplotlib & seaborn - Data visualization
 
 ## 🚀 Implementation Steps
-# 1️⃣ Load & Preprocess the Dataset
+### 1️⃣ Load & Preprocess the Dataset
 Read the Twitter dataset (twitter_training.csv).
 Drop rows with missing tweets.
-# 2️⃣ Perform Sentiment Analysis
+### 2️⃣ Perform Sentiment Analysis
 Compute Polarity Score (TextBlob) for each tweet.
 Classify tweets as Positive, Negative, or Neutral based on polarity.
-# 3️⃣ Visualize the Sentiment Distribution
+### 3️⃣ Visualize the Sentiment Distribution
 Count the number of tweets per sentiment category.
 Plot a histogram to visualize sentiment polarity distribution.
 
